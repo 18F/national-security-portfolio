@@ -22,13 +22,13 @@ Most importantly, we have an opportunity to support the success of agencies resp
 * [How 18F and the Presidential Innovation Fellows (PIF) work together](https://18f.gsa.gov/2019/05/16/how-18f-and-pif-work-together-in-agencies/)
 * [18F’s four favorite projects of 2018](https://18f.gsa.gov/2019/03/22/18F-5-anniv-fav-project/)
 
-## Current Project
+## Current Projects
 
 * Department of Energy, National Nuclear Security Administration - [Nuclear Smuggling Detection and Deterrence](https://www.energy.gov/nnsa/nnsa-and-nuclear-smuggling-detection-and-deterrence)
-* [USMC Installation and Logistics](https://www.iandl.marines.mil/) - read about our previous work [here](https://github.com/18F/national-security-portfolio/blob/master/README.md#us-marine-corps-usmc---logistics-and-planning-pas)
-* [US Air Force BES](https://www.airforcebes.af.mil/) - read about our previous work [here](https://github.com/18F/national-security-portfolio/blob/master/README.md#air-force-business-and-enterprise-systems-path-analysis)
-* [Defense Travel Management Office](https://www.defensetravel.dod.mil/) - read about our previous work [here](https://github.com/18F/national-security-portfolio/blob/master/README.md#defense-travel-management-office-dtmo-path-analysis)
-* [National Geospatial-Intelligence Agency](https://www.nga.mil/Pages/Default.aspx) - read about our previous work [here](https://github.com/18F/national-security-portfolio/blob/master/README.md#national-geospatial-intelligence-agency-nga-geoint-services-path-analysis)
+* [USMC Installation and Logistics](https://www.iandl.marines.mil/) - follow-on to our previous work [here](https://github.com/18F/national-security-portfolio/blob/master/README.md#us-marine-corps-usmc---logistics-and-planning-pas)
+* [US Air Force BES](https://www.airforcebes.af.mil/) - follow-on to our previous work [here](https://github.com/18F/national-security-portfolio/blob/master/README.md#air-force-business-and-enterprise-systems-path-analysis)
+* [Defense Travel Management Office](https://www.defensetravel.dod.mil/) - follow-on to our previous work [here](https://github.com/18F/national-security-portfolio/blob/master/README.md#defense-travel-management-office-dtmo-path-analysis)
+* [National Geospatial-Intelligence Agency](https://www.nga.mil/Pages/Default.aspx) - follow-on to our previous work [here](https://github.com/18F/national-security-portfolio/blob/master/README.md#national-geospatial-intelligence-agency-nga-geoint-services-path-analysis)
 
 ## Past Projects
 
