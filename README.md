@@ -25,9 +25,9 @@ Most importantly, we have an opportunity to support the success of agencies resp
 ## Current Project
 
 * Department of Energy, National Nuclear Security Administration - [Nuclear Smuggling Detection and Deterrence](https://www.energy.gov/nnsa/nnsa-and-nuclear-smuggling-detection-and-deterrence)
-* [USMC Installation and Logistics](https://www.iandl.marines.mil/)
+* [USMC Installation and Logistics](https://www.iandl.marines.mil/) - see more [here][#]
 * [US Air Force BES](https://www.airforcebes.af.mil/)
-* [Defense Travel Management Office](https://www.defensetravel.dod.mil/)
+* [Defense Travel Management Office](https://www.defensetravel.dod.mil/) - see more [here](https://methods.18f.gov/).
 * [National Geospatial-Intelligence Agency](https://www.nga.mil/Pages/Default.aspx)
 
 ## Past Projects
