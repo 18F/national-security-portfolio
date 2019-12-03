@@ -10,7 +10,7 @@ The 18F National Security and Intelligence Portfolio is a unit within 18F that w
 
 At 18F, we see technical challenges and barriers across government. As an organization, we are well-positioned to help national security and intelligence agencies adopt and apply new technologies more efficiently and more successfully. 
 
-The unique dynamics at work on our national security engagements will help 18F validate and evolve current practices and theories of change. How we conduct user research, foster iterative delivery, and advocate for adoption of open source technology are core to our work with agencies. These pillars will be tested rigorously on national security engagements, helping our practices become more adaptable and durable to broaden our impact.
+The unique dynamics at work on our national security engagements will help 18F validate and evolve [current practices](https://methods.18f.gov/) and theories of change. How we conduct user research, foster iterative delivery, and advocate for adoption of open source technology are core to our work with agencies. These pillars will be tested rigorously on national security engagements, helping our practices become more adaptable and durable to broaden our impact.
 
 One of the most important outcomes of 18F’s work assisting agencies in efficiently adopting new technology and digital solutions is improving stewardship of public money. No area of government has the potential to generate these benefits more than in the national security and intelligence area. Our work with defense and intelligence agencies has already generated hundreds of millions of dollars in savings.
 
@@ -25,7 +25,7 @@ Most importantly, we have an opportunity to support the success of agencies resp
 ## Current Project
 
 * Department of Energy, National Nuclear Security Administration - [Nuclear Smuggling Detection and Deterrence](https://www.energy.gov/nnsa/nnsa-and-nuclear-smuggling-detection-and-deterrence)
-* USMC Installation and Logistics
+* [USMC Installation and Logistics](https://www.iandl.marines.mil/)
 * [US Air Force BES](https://www.airforcebes.af.mil/)
 * [Defense Travel Management Office](https://www.defensetravel.dod.mil/)
 * [National Geospatial-Intelligence Agency](https://www.nga.mil/Pages/Default.aspx)
