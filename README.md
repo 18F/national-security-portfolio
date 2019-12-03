@@ -25,10 +25,10 @@ Most importantly, we have an opportunity to support the success of agencies resp
 ## Current Project
 
 * Department of Energy, National Nuclear Security Administration - [Nuclear Smuggling Detection and Deterrence](https://www.energy.gov/nnsa/nnsa-and-nuclear-smuggling-detection-and-deterrence)
-* [USMC Installation and Logistics](https://www.iandl.marines.mil/) - read about our previous work [here](https://github.com/18F/national-security/blob/master/README.md#us-marine-corps-usmc---logistics-and-planning-pas-940)
-* [US Air Force BES](https://www.airforcebes.af.mil/) - read about our previous work [here](https://github.com/18F/national-security/blob/master/README.md#air-force-business-and-enterprise-systems-path-analysis-1125)
-* [Defense Travel Management Office](https://www.defensetravel.dod.mil/) - read about our previous work [here](https://github.com/18F/national-security/blob/master/README.md#defense-travel-management-office-dtmo-path-analysis-915)
-* [National Geospatial-Intelligence Agency](https://www.nga.mil/Pages/Default.aspx) - read about our previous work [here](https://github.com/18F/national-security/blob/master/README.md#national-geospatial-intelligence-agency-nga-geoint-services-path-analysis-1059)
+* [USMC Installation and Logistics](https://www.iandl.marines.mil/) - read about our previous work [here](https://github.com/18F/national-security-portfolio/blob/master/README.md#us-marine-corps-usmc---logistics-and-planning-pas)
+* [US Air Force BES](https://www.airforcebes.af.mil/) - read about our previous work [here](https://github.com/18F/national-security-portfolio/blob/master/README.md#air-force-business-and-enterprise-systems-path-analysis)
+* [Defense Travel Management Office](https://www.defensetravel.dod.mil/) - read about our previous work [here](https://github.com/18F/national-security-portfolio/blob/master/README.md#defense-travel-management-office-dtmo-path-analysis)
+* [National Geospatial-Intelligence Agency](https://www.nga.mil/Pages/Default.aspx) - read about our previous work [here](https://github.com/18F/national-security-portfolio/blob/master/README.md#national-geospatial-intelligence-agency-nga-geoint-services-path-analysis)
 
 ## Past Projects
 
