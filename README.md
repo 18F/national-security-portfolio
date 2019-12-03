@@ -1,6 +1,6 @@
 # 18F’s National Security and Intelligence Portfolio
 
-This repo is an index of work in the human services space led by teams within GSA's [Technology Transformation Service (TTS)](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) (which includes [18F](https://18f.gsa.gov/)).
+This repo is an index of work in the national security space led by teams within GSA's [Technology Transformation Service (TTS)](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) (which includes [18F](https://18f.gsa.gov/)).
 
 ## About the National Security and Intelligence Portfolio
 
