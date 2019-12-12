@@ -18,7 +18,7 @@ Most importantly, we have an opportunity to support the success of agencies resp
 
 ## Blog posts
 
-* Introducing the 18F National Security and Intelligence Portfolio (coming soon)
+* [Introducing the 18F National Security and Intelligence Portfolio](https://18f.gsa.gov/2019/12/10/announcing-the-18f-national-security-and-intelligence-portfolio/)
 * [How 18F and the Presidential Innovation Fellows (PIF) work together](https://18f.gsa.gov/2019/05/16/how-18f-and-pif-work-together-in-agencies/)
 * [18F’s four favorite projects of 2018](https://18f.gsa.gov/2019/03/22/18F-5-anniv-fav-project/)
 
